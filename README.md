@@ -1,1 +1,1 @@
-# tindog_bootstrap
+TinDog Starting Files
